@@ -17,3 +17,7 @@ p {
 
 #banner {    
     max: width 100%
+}
+.beneficios-titulo {
+   text-align: center;
+}
